@@ -3,7 +3,8 @@
  * main - is the main
  *
  * Decription: practise in alx
- * 
+ *
+ * Return: 0 always (Sucsess) 
 */
 int main(void)
 {
