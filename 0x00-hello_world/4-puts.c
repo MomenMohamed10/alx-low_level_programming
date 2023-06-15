@@ -5,7 +5,9 @@
  *
  * Decription: practise in alx
  * Return: 0 always (Sucsess) 
+*
 */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
