@@ -4,10 +4,10 @@
  *
  * Decription: practise in alx
  *
- * Return: 0 always 
- */
+ * Return: 0always 
+*/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return 0;
+	return (0);
 }
