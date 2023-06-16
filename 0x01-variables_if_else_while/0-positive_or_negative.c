@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - main
- * Return: 0 alwqys
+ * main - Determines if a number is positive, negative or zero.
  *
-*/
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
@@ -14,11 +14,16 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
-		printf("is positive\n");
+	{
+		printf("%d is positive\n", n);
+	}
 	else if (n == 0)
-		printf("is zero\n");
+	{
+		printf("%d is zero\n", n);
+	}
 	else
-		printf("is negative\n");	
-
+	{
+		printf("%d is negative\n", n);
+	}
 	return (0);
 }
