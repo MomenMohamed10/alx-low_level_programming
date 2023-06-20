@@ -1,18 +1,12 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - enrty point
  *
- * Description: firsttest - print putchar
+ * Return: 0 always
  *
 */
-
-void firsttest(void);
+int main(void)
 {
 	printf("_putchar\n");
-}
-
-	int main(void)
-{
-	 firsttest();
-	return (0);
+		return(0);
 }
