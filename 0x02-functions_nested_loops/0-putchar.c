@@ -2,17 +2,18 @@
 /**
  * main - Entry point
  *
+ * Discription: my first fuiction i do
+ *
  * Return: 0 or another
  *
 */
-void firsttest()
+void firsttest(void)
 {
 	printf("_putchar\n");
 }
 
-	int main()
+	int main(void)
 {
-
-	firsttest();
+	 firsttest();
 	return (0);
 }
