@@ -4,7 +4,7 @@
  *
  * Description: my first fuiction i do
  *
- * Description Function firsttest: this my first function ever
+ *_putchar:utilizes
  *
  * Return: 0 or another
  *
