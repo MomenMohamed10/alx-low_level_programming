@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- * main - Entry point
  *
  * Description: my first fuiction i do
  *
