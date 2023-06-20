@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
  *
- * Description: my first fuiction i do
+ * firsttest - utilizes the putchar
  *
- *_putchar:utilizes
+ * main - Entry point
  *
- * Return: 0 or another
  *
 */
 
