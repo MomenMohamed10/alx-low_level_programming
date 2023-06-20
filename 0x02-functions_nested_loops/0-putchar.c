@@ -1,14 +1,12 @@
 #include <stdio.h>
 /**
- *
- * firsttest - utilizes the putchar
- *
  * main - Entry point
  *
+ * Description: firsttest - print putchar
  *
 */
 
-void firsttest(void)
+void firsttest(void);
 {
 	printf("_putchar\n");
 }
